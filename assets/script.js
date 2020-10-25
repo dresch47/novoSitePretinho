@@ -1,17 +1,17 @@
-// function abrir(){
+function abrir(){
 
-//   var mostrarMenu = document.getElementById('showNav');
+   var mostrarMenu = document.getElementById('showNav');
      
 
-//   if (mostrarMenu.style.display == 'none') {
-//        mostrarMenu.style.display = 'block';
-//   }else{
-//        mostrarMenu.style.display = 'none';
-//   }
+  if (mostrarMenu.style.display == 'none') {
+        mostrarMenu.style.display = 'block';
+  }else{
+        mostrarMenu.style.display = 'none';
+   }
 
  
    
-// }
+ }
 
 
 
